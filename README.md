@@ -13,6 +13,7 @@ This project is a Digital Marketing Landing Page built with Next.js and Framer M
 - [Next.js](https://nextjs.org): React framework for building web applications with efficient server-side rendering.
 - [Framer Motion](https://www.framer.com/motion/): A React library for creating smooth animations.
 - [Shadcn](https://ui.shadcn.com): UI components for enhancing the user interface.
+- [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework for rapidly building custom designs.
 
 ## Features
 
