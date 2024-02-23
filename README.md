@@ -8,7 +8,6 @@ This project is a Digital Marketing Landing Page built with Next.js and Framer M
 - [Features](#features)
 - [Getting Started](#getting-started)
 
-  
 ## Technologies Used
 
 - [Next.js](https://nextjs.org): React framework for building web applications with efficient server-side rendering.
@@ -37,3 +36,4 @@ Follow the steps below to get started with this Digital Marketing Landing Page:
 
    ```bash
    https://github.com/Akshay-gavandi8076/digital-marketing.git
+   ```
